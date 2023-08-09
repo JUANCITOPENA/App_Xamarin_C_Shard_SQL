@@ -15,4 +15,10 @@ Proporcionar una experiencia de aprendizaje práctica en programación orientada
 
 A medida que avancemos en este emocionante proyecto, exploraremos cómo los conceptos de programación orientada a objetos y el uso de herramientas como Xamarin y SQL Server se combinan para crear una aplicación móvil efectiva y funcional. Prepárate para sumergirte en la programación móvil y desarrollar tus habilidades en un entorno práctico y divertido. ¡Vamos a comenzar a construir nuestra aplicación de ventas y a aprender juntos en este emocionante viaje de desarrollo!
 
+# CAPTURAS DE PANTALLA:
+
 ![image](PANTALLA.png)
+
+# BASE DE DATOS:
+
+![image](BASE_DATOS_APP.png)
