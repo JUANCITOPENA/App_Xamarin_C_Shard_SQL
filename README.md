@@ -1,5 +1,4 @@
-# App_Xamarin_C_Shard_SQL
-App_Xamarin_C_Shard_SQL  Login, Roles, Usuarios, Articulos  y Ventas con varias tablas y CRUD
+# PROYECTO CON XAMARIN,  C#,  SQL SERVER -CON USO DE CRUD -CREATE, READ, UPDATE, DELETE-CON LOGIN Y ROLES, MAS TABLAS, ARTICULOS Y VENTAS
 
 ## Introducción:
 Introducción al desarrollado con Xamarin, C# y SQL Server. En este proyecto, exploraremos cómo construir una aplicación móvil funcional que permitirá a los usuarios registrar  usuarios, roles de usuarios, articulos, y ventas,  generar tickets, todo ello a través de una interfaz de usuario intuitiva y amigable.
@@ -22,3 +21,12 @@ A medida que avancemos en este emocionante proyecto, exploraremos cómo los conc
 # BASE DE DATOS:
 
 ![image](BASE_DATOS_APP.png)
+
+✔  No olvides suscribirte, compartir el video, darle like y dejar tus comentarios en la sección de abajo. ¡Tu apoyo es muy importante para mí  y me ayudas a seguir creando contenido. 💚
+
+1-🎬 Youtube:https://www.youtube.com/@JuancitoPenaV 
+2-👨‍💼 LinkedIn: https://www.linkedin.com/in/juancitope%C3%B1a/
+3-📰 Blog: https://advisertecnology.com/
+4-📷 Instagram: https://www.instagram.com/juancito.pena.v/
+5-📑 Facebook:https://www.facebook.com/juancito.p.v
+6-🐦 Twitter: https://twitter.com/JuancitoPenaV
